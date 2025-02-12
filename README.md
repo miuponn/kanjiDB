@@ -2,13 +2,13 @@
 
 ## Project Overview
 
-The Kanji Learner API is a Node.js-based backend service designed to help build language-learning applications. The API offers a comprephensive listened detailed information about a wide range of kanji characters.
+The Kanji Learner API is a Node.js-based backend service designed to help build language-learning applications. The API offers a comprehensive listened detailed information about a wide range of kanji characters.
 
 ## Features
 
 - **Extensive Kanji Database**: Over 2500 kanji entries, each featuring details like the kanji character, hiragana, romaji, meaning, compound words, example expressions
 - **Search and Filter Functionality**: Users can efficiently search through the kanji database based on character, meaning, readings, and other attributes
-- **User-Friendly**: Designed with a focus on simplicity and ease of use
+- **User-Friendly**: Designed with a focus on simplicity and ease of use :)
 
 ## Technologies
 
