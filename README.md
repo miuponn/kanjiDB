@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The Kanji Learner API is a Node.js-based backend service designed to help build language-learning applications. The API offers comprehensive details about a wide range of kanji characters.
+Node.js-based backend service designed to help build japanese language-learning applications with a comprehensive details about a wide range of kanji characters.
 
 ## Features
 
@@ -20,6 +20,7 @@ The Kanji Learner API is a Node.js-based backend service designed to help build 
 ## Getting Started
 
 To get started with the Kanji Learner API:
+
 1. Clone the repository.
 2. Install dependencies with `npm install`.
 3. Set up your MongoDB database and update the connection string in the application.
